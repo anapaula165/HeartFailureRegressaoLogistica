@@ -1,3 +1,6 @@
+# REGRESSÃO LOGÍSTICA
+<img src="https://github.com/user-attachments/assets/af00db36-1963-4f61-953d-e20926a07790" alt="image" width="300" height="200">
+
 Este é um código de regressão logística sobre a sobrevivência de pacientes com insuficiência cardíaca. Estudo realizado com registros médicos de 299 pacientes
 com insuficiência cardíaca coletados no Faisalabad Institute of Cardiology and Allied Hospital em Faisalabad, Punjab, Paquistão, durante abril-dezembro de 2015.
 Os pacientes apresentavam disfunção sistólica do ventrículo esquerdo e foram classificados nas classes III ou IV da NYHA.
